@@ -1,4 +1,6 @@
 ## Hi there 👋
+-Estou cursando Análise e Desenvolvimento de Sistemas (ADS)
+-Estudando Python e C na faculdade
 
 <div>
   <a href="https://github.com/kotynn">
