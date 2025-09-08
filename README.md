@@ -1,4 +1,4 @@
-## Oi 👋
+## Oi, Me chamo Rafael Koti 👋
 -Estou cursando Análise e Desenvolvimento de Sistemas (ADS)
 
 -Estudando Python e C na faculdade
