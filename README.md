@@ -1,5 +1,6 @@
-## Hi there 👋
+## Oi 👋
 -Estou cursando Análise e Desenvolvimento de Sistemas (ADS)
+
 -Estudando Python e C na faculdade
 
 <div>
