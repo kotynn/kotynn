@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/rafael-koti-b046b8352">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/kotynn/">
+  <a href="https://www.instagram.com/kotynn.png/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:rafaelsugaikoti404@gmail.com">
