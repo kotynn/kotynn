@@ -3,7 +3,7 @@
 <p align="center">
   📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
   💻 Estudando <strong>Python</strong> e <strong>C</strong> <br>
-   Aprendendo um pouco mais sobre linux e git
+  🐧 Aprendendo um pouco mais sobre <strong>Linux</strong> e <strong>Git</strong>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias que uso ou estou aprendendo
 
 <p align="center">
   <a href="https://www.python.org">
