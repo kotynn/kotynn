@@ -7,7 +7,6 @@
   <a href="https://github.com/kotynn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kotynn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotynn&layout=compact&langs_count=8&theme=tokyonight"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <i class="devicon-python-plain"></i>
           
 </div>
