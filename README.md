@@ -2,7 +2,8 @@
 
 <p align="center">
   📚 Estudante de Análise e Desenvolvimento de Sistemas (ADS) <br>
-  💻 Atualmente estudando <strong>Python</strong> e <strong>C</strong> <br>
+  💻 Estudando <strong>Python</strong> e <strong>C</strong> <br>
+   Aprendendo um pouco mais sobre linux e git
 </p>
 
 ---
