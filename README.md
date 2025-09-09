@@ -2,6 +2,7 @@
 
 - Estou cursando Análise e Desenvolvimento de Sistemas (ADS)  
 - Estudando Python e C na faculdade
+- Aprendendo a mexer em Linux e Git
 
 <div align="center">
   <a href="https://github.com/kotynn">
@@ -10,11 +11,19 @@
   </a>
 </div>
 
-## 🚀 Tecnologias & Contato
+---
+
+## 🚀 Tecnologias que uso ou estou aprendendo
+
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+---
+
+## 📫 Contato & Redes Sociais
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-koti-b046b8352)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kotynn.png/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelsugaikoti404@gmail.com)
