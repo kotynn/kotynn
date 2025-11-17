@@ -20,6 +20,13 @@
 
 ###
 
+<div align="left" width="100%">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=600&size=22&lines=Technologies+I'm+currently+learning;Always+improving+my+skills!" 
+    alt="Typing SVG"
+  />
+</div>
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flask" height="50" alt="flask logo"  />
   <img width="10" />
