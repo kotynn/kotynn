@@ -1,6 +1,18 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is Rafael Koti!</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9900CC&fontAlign=50&section=header">
+
+<div align="center">
+  <b>`ラファエル`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b>Rafael Sugai Koti</b> 
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=9619ABFF&width=900&size=22&center=true&lines=I'm+studying+Analysis+and+Systems+Development;Be+welcome!" alt="Typing SVG"/>
+</div>
 
 ###
 
