@@ -56,8 +56,8 @@ Seja bem-vindo ao meu GitHub.
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=kotynn&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=050505&stroke=8ec5ff&ring=8ec5ff&fire=8ec5ff&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=8ec5ff&sideLabels=8ec5ff&dates=5f7d95" height="185" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kotynn&show_icons=true&hide_border=true&bg_color=050505&title_color=8ec5ff&text_color=8ec5ff&icon_color=8ec5ff" height="185" />
+<img src="https://streak-stats.demolab.com?user=kotynn&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=050505&stroke=8ec5ff&ring=8ec5ff&fire=8ec5ff&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=8ec5ff&sideLabels=8ec5ff&dates=5f7d95" height="165" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kotynn&show_icons=true&hide_border=true&bg_color=050505&title_color=8ec5ff&text_color=8ec5ff&icon_color=8ec5ff" height="165" />
 </div>
 
 <div align="center">
