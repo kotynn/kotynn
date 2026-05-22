@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <sub><sup>S C U D E R I A &nbsp; D E V &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sup></sub>
+  <sub><sup>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sup></sub>
 </p>
 
 <div align="center">
