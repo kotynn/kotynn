@@ -16,18 +16,6 @@
 
 <br>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logoColor=8ec5ff&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-132238?style=flat-square&logoColor=7bb8ff&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1a2b45?style=flat-square&logoColor=6aaeff&logo=css3)
-![Java](https://img.shields.io/badge/Java-223451?style=flat-square&logoColor=5ba5ff&logo=openjdk)
-![C](https://img.shields.io/badge/C-050505?style=flat-square&logoColor=4d9cff&logo=c)
-![C++](https://img.shields.io/badge/C++-0f1720?style=flat-square&logoColor=6fb6ff&logo=cplusplus)
-![Design](https://img.shields.io/badge/Design-16202b?style=flat-square&logoColor=9ad0ff&logo=figma)
-
-</div>
-
 <h3 align="center"><sub> 𝐒 𝐎 𝐁 𝐑 𝐄 &nbsp; 𝐌 𝐈 𝐌</sub></h3>
 
 <table align="center">
@@ -37,10 +25,13 @@
 
 <p align="left">
 
-Sou um estudante de programação e designer gráfico, buscando evoluir constantemente e transformar conhecimento em prática.
-Atualmente gosto de misturar programação com aquilo que me inspira — arte, estética e identidade. Atualmente estudo na Unicesumar - Londrina/PR e utilizo o VSCode como principal ferramenta.
-Sigo evoluindo e aplicando conhecimento constantemente.
-Seja bem-vindo ao meu GitHub.
+Sou estudante de desenvolvimento de software, focado em criar experiências interativas e transformar ideias em projetos reais.
+Tenho grande interesse em desenvolvimento back-end, unindo lógica, criatividade e estética em tudo o que produzo.
+
+Atualmente estudo na Unicesumar, Londrina|PR e utilizo o Visual Studio Code como principal ferramenta de desenvolvimento.
+Estou sempre buscando evoluir, aprender novas tecnologias e aplicar conhecimento na criação de sistemas e projetos criativos.
+
+Seja bem-vindo ao meu GitHub..
 
 </p>
 
@@ -55,14 +46,26 @@ Seja bem-vindo ao meu GitHub.
 </tr>
 </table>
 
-<div align="center">
+<h3 align="center">
+  <sub>𝐓 𝐄 𝐂 𝐍 𝐎 𝐋 𝐎 𝐆 𝐈 𝐀 𝐒 &nbsp; 𝐐 𝐔 𝐄 &nbsp; 𝐄 𝐒 𝐓 𝐎 𝐔 &nbsp; 𝐀 𝐏 𝐑 𝐄 𝐍 𝐃 𝐄 𝐍 𝐃 𝐎</sub>
+</h3>
 
-![Git](https://img.shields.io/badge/Git-050505?style=flat-square&logoColor=4d9cff&logo=git)
-![Figma](https://img.shields.io/badge/Figma-101820?style=flat-square&logoColor=6fb6ff&logo=figma)
-![SQL](https://img.shields.io/badge/SQL-16202b?style=flat-square&logoColor=8ec5ff&logo=mysql)
-![Linux](https://img.shields.io/badge/Linux-1f2d3d?style=flat-square&logoColor=a7d8ff&logo=linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-050505?style=flat-square&logoColor=4d9cff&logo=git" />
+  <img src="https://img.shields.io/badge/Figma-101820?style=flat-square&logoColor=6fb6ff&logo=figma" />
+  <img src="https://img.shields.io/badge/Linux-1f2d3d?style=flat-square&logoColor=a7d8ff&logo=linux" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0d1b2a?style=flat-square&logoColor=8ec5ff&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML5-132238?style=flat-square&logoColor=7bb8ff&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-1a2b45?style=flat-square&logoColor=6aaeff&logo=css3" />
+  <img src="https://img.shields.io/badge/Java-223451?style=flat-square&logoColor=5ba5ff&logo=openjdk" />
+  <img src="https://img.shields.io/badge/C-050505?style=flat-square&logoColor=4d9cff&logo=c" />
+  <img src="https://img.shields.io/badge/Python-0f1720?style=flat-square&logoColor=6fb6ff&logo=python" />
+  <img src="https://img.shields.io/badge/Flask-16202b?style=flat-square&logoColor=9ad0ff&logo=flask" />
+  <img src="https://img.shields.io/badge/Design-16202b?style=flat-square&logoColor=9ad0ff&logo=figma" />
+</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kotynn&locale=pt-br&mode=daily&theme=dark&hide_border=true&background=050505&stroke=8ec5ff&ring=8ec5ff&fire=8ec5ff&currStreakNum=f0ede6&sideNums=f0ede6&currStreakLabel=8ec5ff&sideLabels=8ec5ff&dates=5f7d95" height="165" />
