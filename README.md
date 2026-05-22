@@ -7,8 +7,7 @@
 </div>
 
 <p align="center">
-  <sub><sup>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sup></sub>
-</p>
+<sub>D E V &nbsp; B A C K - E N D &nbsp; — &nbsp; L O N D R I N A &nbsp; / &nbsp; P R</sub></p>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&style=italic&weight=300&size=18&duration=2800&pause=900&color=888888&center=true&vCenter=true&width=600&lines=ラファエル;Rafael;" />
